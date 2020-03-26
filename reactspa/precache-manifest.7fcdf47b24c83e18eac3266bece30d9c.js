@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2346bb7b0672b886fe23e1cb08887bc",
+    "revision": "f723d376630e35efd4e518d64e8a06b3",
     "url": "//bestcoder2020.github.io/reactspa/index.html"
   },
   {
-    "revision": "a3034831622629749f22",
+    "revision": "c9902e1cf09c8ec34552",
     "url": "//bestcoder2020.github.io/reactspa/static/css/main.bdaf9421.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3034831622629749f22",
-    "url": "//bestcoder2020.github.io/reactspa/static/js/main.57a742f1.chunk.js"
+    "revision": "c9902e1cf09c8ec34552",
+    "url": "//bestcoder2020.github.io/reactspa/static/js/main.76c74229.chunk.js"
   },
   {
     "revision": "a9f90fb953ee3712864f",

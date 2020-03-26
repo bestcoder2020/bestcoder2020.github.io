@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//bestcoder2020.github.io/reactspa/static/css/main.bdaf9421.chunk.css",
-    "main.js": "//bestcoder2020.github.io/reactspa/static/js/main.57a742f1.chunk.js",
-    "main.js.map": "//bestcoder2020.github.io/reactspa/static/js/main.57a742f1.chunk.js.map",
+    "main.js": "//bestcoder2020.github.io/reactspa/static/js/main.76c74229.chunk.js",
+    "main.js.map": "//bestcoder2020.github.io/reactspa/static/js/main.76c74229.chunk.js.map",
     "runtime-main.js": "//bestcoder2020.github.io/reactspa/static/js/runtime-main.1841e5a6.js",
     "runtime-main.js.map": "//bestcoder2020.github.io/reactspa/static/js/runtime-main.1841e5a6.js.map",
     "static/js/2.f499387a.chunk.js": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js",
     "static/js/2.f499387a.chunk.js.map": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js.map",
     "index.html": "//bestcoder2020.github.io/reactspa/index.html",
-    "precache-manifest.fe2e4fd273f3b4f143637fe24c39ae1b.js": "//bestcoder2020.github.io/reactspa/precache-manifest.fe2e4fd273f3b4f143637fe24c39ae1b.js",
+    "precache-manifest.7fcdf47b24c83e18eac3266bece30d9c.js": "//bestcoder2020.github.io/reactspa/precache-manifest.7fcdf47b24c83e18eac3266bece30d9c.js",
     "service-worker.js": "//bestcoder2020.github.io/reactspa/service-worker.js",
     "static/css/main.bdaf9421.chunk.css.map": "//bestcoder2020.github.io/reactspa/static/css/main.bdaf9421.chunk.css.map",
     "static/js/2.f499387a.chunk.js.LICENSE.txt": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1841e5a6.js",
     "static/js/2.f499387a.chunk.js",
     "static/css/main.bdaf9421.chunk.css",
-    "static/js/main.57a742f1.chunk.js"
+    "static/js/main.76c74229.chunk.js"
   ]
 }
