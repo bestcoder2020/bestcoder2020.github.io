@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//bestcoder2020.github.io/reactspa/precache-manifest.7fcdf47b24c83e18eac3266bece30d9c.js"
+  "//bestcoder2020.github.io/reactspa/precache-manifest.98d2c5edd2d37126c32fef74fead94ec.js"
 );
 
 self.addEventListener('message', (event) => {
