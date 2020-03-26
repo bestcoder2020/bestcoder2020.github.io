@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdaf9421.chunk.css",
-    "main.js": "/static/js/main.d7b2c1ef.chunk.js",
-    "main.js.map": "/static/js/main.d7b2c1ef.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b1780371.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b1780371.js.map",
-    "static/js/2.f499387a.chunk.js": "/static/js/2.f499387a.chunk.js",
-    "static/js/2.f499387a.chunk.js.map": "/static/js/2.f499387a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9a4b360d8ce1de98f3935d06fa6aeea7.js": "/precache-manifest.9a4b360d8ce1de98f3935d06fa6aeea7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bdaf9421.chunk.css.map": "/static/css/main.bdaf9421.chunk.css.map",
-    "static/js/2.f499387a.chunk.js.LICENSE.txt": "/static/js/2.f499387a.chunk.js.LICENSE.txt",
-    "static/media/logo.jpg": "/static/media/logo.8050cde2.jpg"
+    "main.css": "//bestcoder2020.github.io/reactspa/static/css/main.bdaf9421.chunk.css",
+    "main.js": "//bestcoder2020.github.io/reactspa/static/js/main.57a742f1.chunk.js",
+    "main.js.map": "//bestcoder2020.github.io/reactspa/static/js/main.57a742f1.chunk.js.map",
+    "runtime-main.js": "//bestcoder2020.github.io/reactspa/static/js/runtime-main.1841e5a6.js",
+    "runtime-main.js.map": "//bestcoder2020.github.io/reactspa/static/js/runtime-main.1841e5a6.js.map",
+    "static/js/2.f499387a.chunk.js": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js",
+    "static/js/2.f499387a.chunk.js.map": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js.map",
+    "index.html": "//bestcoder2020.github.io/reactspa/index.html",
+    "precache-manifest.fe2e4fd273f3b4f143637fe24c39ae1b.js": "//bestcoder2020.github.io/reactspa/precache-manifest.fe2e4fd273f3b4f143637fe24c39ae1b.js",
+    "service-worker.js": "//bestcoder2020.github.io/reactspa/service-worker.js",
+    "static/css/main.bdaf9421.chunk.css.map": "//bestcoder2020.github.io/reactspa/static/css/main.bdaf9421.chunk.css.map",
+    "static/js/2.f499387a.chunk.js.LICENSE.txt": "//bestcoder2020.github.io/reactspa/static/js/2.f499387a.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "//bestcoder2020.github.io/reactspa/static/media/logo.8050cde2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1780371.js",
+    "static/js/runtime-main.1841e5a6.js",
     "static/js/2.f499387a.chunk.js",
     "static/css/main.bdaf9421.chunk.css",
-    "static/js/main.d7b2c1ef.chunk.js"
+    "static/js/main.57a742f1.chunk.js"
   ]
 }
